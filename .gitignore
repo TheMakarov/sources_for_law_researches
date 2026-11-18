@@ -1,0 +1,9 @@
+# Offline reference downloads and personal assignment photographs stay local.
+**/sources/
+**/assignment/
+_site/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.zip

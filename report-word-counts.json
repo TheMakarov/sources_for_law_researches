@@ -1,0 +1,52 @@
+[
+  {
+    "course": "01-introduction-to-law",
+    "language": "ar",
+    "report_body_words": 467
+  },
+  {
+    "course": "01-introduction-to-law",
+    "language": "en",
+    "report_body_words": 574
+  },
+  {
+    "course": "02-legal-sociology",
+    "language": "ar",
+    "report_body_words": 474
+  },
+  {
+    "course": "02-legal-sociology",
+    "language": "en",
+    "report_body_words": 538
+  },
+  {
+    "course": "03-islamic-law",
+    "language": "ar",
+    "report_body_words": 457
+  },
+  {
+    "course": "03-islamic-law",
+    "language": "en",
+    "report_body_words": 526
+  },
+  {
+    "course": "04-political-science",
+    "language": "ar",
+    "report_body_words": 457
+  },
+  {
+    "course": "04-political-science",
+    "language": "en",
+    "report_body_words": 530
+  },
+  {
+    "course": "05-constitutional-law",
+    "language": "ar",
+    "report_body_words": 434
+  },
+  {
+    "course": "05-constitutional-law",
+    "language": "en",
+    "report_body_words": 498
+  }
+]

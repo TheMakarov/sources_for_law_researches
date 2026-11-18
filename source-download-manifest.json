@@ -1,0 +1,156 @@
+[
+  {
+    "id": "L1",
+    "folder": "01-introduction-to-law",
+    "file": "sources/doc-morocco-ar-2024.pdf",
+    "url": "https://adala.justice.gov.ma/api/uploads/2024/09/04/قانون%20الالتزامات%20والعقود%20غشت%202024%201-1725443715659.pdf",
+    "retrieved": "2026-11-18",
+    "final_url": "https://adala.justice.gov.ma/api/uploads/2024/09/04/قانون%20الالتزامات%20والعقود%20غشت%202024%201-1725443715659.pdf",
+    "status": "downloaded",
+    "bytes": 3699225,
+    "sha256": "0f466a0ce8939d5edd7963000d46156e72cf86e7ffd48180754357734fdb0080"
+  },
+  {
+    "id": "L2",
+    "folder": "01-introduction-to-law",
+    "file": "sources/mandatory-default-rules-2013.pdf",
+    "url": "https://revue.umc.edu.dz/h/article/download/1417/1527/2874",
+    "retrieved": "2026-11-18",
+    "final_url": "https://revue.umc.edu.dz/h/article/download/1417/1527/2874",
+    "status": "downloaded",
+    "bytes": 226992,
+    "sha256": "67bae027b567a25eeb1f6517e7ba505de826a14c13379cf1534e43b4994643c9"
+  },
+  {
+    "id": "L3",
+    "folder": "01-introduction-to-law",
+    "file": "sources/general-theory-law-ar.pdf",
+    "url": "https://cte.univ-setif2.dz/moodle/pluginfile.php/391425/mod_folder/content/0/مطبوعة%20أيت%20شعلال%20نبيل%20المدخل%20للقانون%202026%20PDF.pdf?forcedownload=1",
+    "retrieved": "2026-11-18",
+    "final_url": "https://cte.univ-setif2.dz/moodle/pluginfile.php/391425/mod_folder/content/0/مطبوعة%20أيت%20شعلال%20نبيل%20المدخل%20للقانون%202026%20PDF.pdf?forcedownload=1",
+    "status": "downloaded",
+    "bytes": 1379785,
+    "sha256": "7c1d61ec24e770cf6a62d2c56d10ea78211659cfab448977e9d78a31247c6602"
+  },
+  {
+    "id": "S1",
+    "folder": "02-legal-sociology",
+    "file": "sources/introduction-sociology-2e-en.pdf",
+    "url": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToSociology2e-OP_tbTLqMj.pdf",
+    "retrieved": "2026-11-18",
+    "final_url": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionToSociology2e-OP_tbTLqMj.pdf",
+    "status": "downloaded",
+    "bytes": 39450399,
+    "sha256": "c4fa1cf65f2d0c34cc46679cc3f5d7b988d3db89e53f6cf5d3c3bf5a1e628b10"
+  },
+  {
+    "id": "S2",
+    "folder": "02-legal-sociology",
+    "file": "sources/procedural-justice-perf-2014-en.pdf",
+    "url": "https://www.policeforum.org/assets/docs/Free_Online_Documents/Leadership/legitimacy%20and%20procedural%20justice%20-%20a%20new%20element%20of%20police%20leadership.pdf",
+    "retrieved": "2026-11-18",
+    "final_url": "https://www.policeforum.org/assets/docs/Free_Online_Documents/Leadership/legitimacy%20and%20procedural%20justice%20-%20a%20new%20element%20of%20police%20leadership.pdf",
+    "status": "downloaded",
+    "bytes": 407194,
+    "sha256": "a4e657b606744d888dcbb14ccb9e0783bc4adc358ec1d1dd14282f5d00d27178"
+  },
+  {
+    "id": "I1",
+    "folder": "03-islamic-law",
+    "file": "sources/iifa-custom-ar.txt",
+    "url": "https://iifa-aifi.org/ar/1769.html",
+    "retrieved": "2026-11-18",
+    "final_url": "https://iifa-aifi.org/ar/1769.html",
+    "status": "downloaded",
+    "bytes": 5311,
+    "sha256": "584551aac611268df701f65fb568fd56d5357b518c75e2b2d1235da087c49c55"
+  },
+  {
+    "id": "I1-EN",
+    "folder": "03-islamic-law",
+    "file": "sources/iifa-custom-en.txt",
+    "url": "https://iifa-aifi.org/en/32350.html",
+    "retrieved": "2026-11-18",
+    "final_url": "https://iifa-aifi.org/en/32350.html",
+    "status": "downloaded",
+    "bytes": 3173,
+    "sha256": "c131eb9545839ca0fdacfaf0d7dd3f6b4e7d14f4e3a1ef43d686f264333fbc5a"
+  },
+  {
+    "id": "I2",
+    "folder": "03-islamic-law",
+    "file": "sources/moroccan-custom-academy-2007-ar.pdf",
+    "url": "https://alacademia.org.ma/wp-content/uploads/sites/18/2016/06/117.pdf",
+    "retrieved": "2026-11-18",
+    "status": "downloaded",
+    "bytes": 9303424,
+    "sha256": "17d0eec29d5d9f9ccfbbea58949289c688b663cb8016a649c0b5ad43f9286b6c",
+    "final_url": "https://alacademia.org.ma/wp-content/uploads/sites/18/2016/06/117.pdf"
+  },
+  {
+    "id": "I3",
+    "folder": "03-islamic-law",
+    "file": "sources/iifa-resolutions-2-24-ar.pdf",
+    "url": "https://iifa-aifi.org/wp-content/uploads/2021/12/القرارات-والتوصيات-للدورات-من-2-إلى-24.pdf",
+    "retrieved": "2026-11-18",
+    "final_url": "https://iifa-aifi.org/wp-content/uploads/2021/12/القرارات-والتوصيات-للدورات-من-2-إلى-24.pdf",
+    "status": "downloaded",
+    "bytes": 7270097,
+    "sha256": "f455db84a2a619b00bee768c35570746863ee76be090f85f8d0837d3e9f3e425"
+  },
+  {
+    "id": "P1",
+    "folder": "04-political-science",
+    "file": "sources/introduction-political-science-en.pdf",
+    "url": "https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Political_Science_-_WEB.pdf",
+    "retrieved": "2026-11-18",
+    "final_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Political_Science_-_WEB.pdf",
+    "status": "downloaded",
+    "bytes": 78449891,
+    "sha256": "64eb5a880b5a38bb77433d22e98a00e8a234b3f5abd44aa8556231b69f81bf00"
+  },
+  {
+    "id": "P2",
+    "folder": "04-political-science",
+    "file": "sources/morocco-constitution-2011-ar.pdf",
+    "url": "https://www.chambredesrepresentants.ma/sites/default/files/documents/constitution_marocaine_2011-ar.pdf",
+    "retrieved": "2026-11-18",
+    "final_url": "https://www.chambredesrepresentants.ma/sites/default/files/documents/constitution_marocaine_2011-ar.pdf",
+    "status": "downloaded",
+    "bytes": 588036,
+    "sha256": "08453188600647a5abbe75949ebfe027d9c5e9f19e79f5794640bd0c61d31394"
+  },
+  {
+    "id": "C1",
+    "folder": "05-constitutional-law",
+    "file": "sources/morocco-constitution-2011-ar.pdf",
+    "url": "https://www.chambredesrepresentants.ma/sites/default/files/documents/constitution_marocaine_2011-ar.pdf",
+    "retrieved": "2026-11-18",
+    "final_url": "https://www.chambredesrepresentants.ma/sites/default/files/documents/constitution_marocaine_2011-ar.pdf",
+    "status": "downloaded",
+    "bytes": 588036,
+    "sha256": "08453188600647a5abbe75949ebfe027d9c5e9f19e79f5794640bd0c61d31394"
+  },
+  {
+    "id": "C2-EN",
+    "folder": "05-constitutional-law",
+    "file": "sources/federalism-idea-en.pdf",
+    "url": "https://www.idea.int/sites/default/files/publications/federalism-primer.pdf",
+    "retrieved": "2026-11-18",
+    "final_url": "https://www.idea.int/sites/default/files/publications/federalism-primer.pdf",
+    "status": "downloaded",
+    "bytes": 568982,
+    "sha256": "43a61062db5281c9ebadc16812ce83a5c4e0f71e586dcd058c066826236c74a1"
+  },
+  {
+    "id": "C2-AR",
+    "folder": "05-constitutional-law",
+    "file": "sources/federalism-idea-ar.pdf",
+    "url": "https://www.idea.int/sites/default/files/publications/federalism-primer-AR.pdf",
+    "retrieved": "2026-11-18",
+    "final_url": "https://www.idea.int/sites/default/files/publications/federalism-primer-AR.pdf",
+    "status": "downloaded",
+    "bytes": 420867,
+    "sha256": "788292d7e9e84cde797be156629da1d8e7270c28d233eabd6a493ae7c2f33fed"
+  }
+]

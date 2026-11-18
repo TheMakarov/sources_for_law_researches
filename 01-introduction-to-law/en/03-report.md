@@ -1,0 +1,74 @@
+# Distinguishing Mandatory and Default Rules: Criteria and Consequences
+
+## Introduction
+
+A contract may contain a term that differs from a rule stated in legislation. The first question is whether the parties were allowed to arrange the matter differently. This report asks how mandatory rules can be distinguished from default rules and what follows from that distinction. It uses a comparison of interpretive criteria and limited examples from Morocco’s Code of Obligations and Contracts.
+
+## I. Classification criteria
+
+### 1. Definitions and wording
+
+A mandatory rule cannot be displaced by private agreement. A default rule permits the parties to arrange the relevant matter differently, while remaining binding when its conditions of application are met. Boukerzaza’s discussion makes the distinction between binding force and conditions of application central to the analysis.[L2]
+
+The textual criterion examines the complete wording. A provision may prohibit contrary terms or expressly permit another agreement. The lecture by Aït Chaâlal describes this route alongside a substantive criterion.[L3] A useful reading method is to identify the rule’s initial command, any exception, and the circumstances in which each operates. This avoids classifying a provision on the strength of a single word.
+
+### 2. Purpose and protected interests
+
+When wording does not settle the question, interpretation turns to the purpose of the rule and its connection with public policy and morality.[L3] This requires reasons. Merely calling an interest “public” does not complete the argument. The student should identify what the provision protects and explain why allowing the particular variation would undermine or preserve that protection.
+
+These criteria can therefore be used as stages in an inquiry rather than as isolated definitions. Begin with the enacted wording; explain its purpose where necessary; test the proposed agreement against the resulting interpretation. If the evidence does not support a categorical answer, the report should acknowledge the remaining interpretive issue.
+
+## II. Consequences and Moroccan illustrations
+
+### 1. Limits on contractual arrangements
+
+Article 230 gives binding force to contractual obligations validly formed. Article 232 prohibits advance exclusion of responsibility for gross fault and fraud.[L1] In a hypothetical agreement excluding a party’s responsibility for its own fraud in advance, the proposed term encounters the latter prohibition. Identifying that conflict is distinct from establishing the precise sanction or deciding whether the entire contract is invalid. Those further questions require the relevant rules on invalidity and its scope.
+
+### 2. Filling a contractual gap
+
+Under the first paragraph of article 502, delivery takes place where the item was located at the time of sale, unless otherwise agreed.[L1] Suppose a book is sold while it is in a shop, and the parties agree that it will be delivered elsewhere. This hypothetical tests the variation expressly contemplated by the provision. Without such an agreement, the statutory rule supplies the answer within the situation it addresses.
+
+The analytical lesson is to separate three questions: what the text normally requires, whether a valid agreement can replace that answer, and what follows if the agreement exceeds the permitted space. Reading the command without its qualification would obscure the second question. Treating every contrary clause as destroying the whole contract would prematurely answer the third.
+
+## Conclusion
+
+Classification depends on a reasoned reading of wording and purpose. Its practical value lies in locating the space left to agreement and identifying the rule applicable when that space has not been used. A strong analysis therefore moves from the provision to the proposed term and then to a carefully justified consequence. It does not substitute labels for interpretation.
+
+## Scope note
+
+Scope: a concise educational report with explicitly hypothetical examples. No student name, deadline, or mandatory length was supplied. Match the report to your instructor’s requirements and verify legislative updates where relevant.
+
+## References and saved copies
+
+Retrieved 18 November 2026. Sources retain their original languages; the study materials and reports have Arabic and English versions. Text files are extracted publisher webpages, not original PDFs.
+
+## [L1] Moroccan Ministry of Justice, Code of Obligations and Contracts, consolidation of 22 August 2024
+
+Articles 230, 232, and 502. This is a dated consolidation; check later amendments affecting the cited provisions before submission.
+
+
+[Open saved copy](../sources/doc-morocco-ar-2024.pdf) · [Publisher source](https://adala.justice.gov.ma/api/uploads/2024/09/04/قانون%20الالتزامات%20والعقود%20غشت%202024%201-1725443715659.pdf)
+
+Size: 3,699,225 bytes.
+
+## [L2] Ahmed Boukerzaza, “Mandatory and Default Rules: The Distinction Founded on Conditions of Application” [translated title], Journal of Human Sciences, 24(1), 2013, pp. 201–224
+
+Algerian/comparative theory; do not present its statutory examples as Moroccan law.
+
+
+[Open saved copy](../sources/mandatory-default-rules-2013.pdf) · [Publisher source](https://revue.umc.edu.dz/h/article/download/1417/1527/2874)
+
+Size: 226,992 bytes.
+
+## [L3] Nabil Aït Chaâlal, Lectures in Legal Sciences: General Theory of Law [translated title], Sétif 2 University, 2024–2025
+
+Printed pp. 63–66. The academic year comes from the cover, not the filename containing 2026.
+
+
+[Open saved copy](../sources/general-theory-law-ar.pdf) · [Publisher source](https://cte.univ-setif2.dz/moodle/pluginfile.php/391425/mod_folder/content/0/مطبوعة%20أيت%20شعلال%20نبيل%20المدخل%20للقانون%202026%20PDF.pdf?forcedownload=1)
+
+Size: 1,379,785 bytes.
+
+## Citation practice
+
+Connect each claim to its source ID. Use article numbers for legislation and section headings for textbooks. Record the exact page in the saved edition for any quotation you add. Do not present a teaching example as a real event or research finding. Original copies are supplied for personal study with publisher attribution; availability does not imply unrestricted republication rights.
