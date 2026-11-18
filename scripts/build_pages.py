@@ -7,6 +7,7 @@ import json
 import re
 import shutil
 import markdown
+from social_metadata import apply_metadata
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / '_site'
@@ -131,6 +132,8 @@ def main():
         title = 'دليل الدراسة والمصادر' if lang == 'ar' else 'Study guide and sources'
         page = f'''<!doctype html><html lang="{lang}" dir="{direction}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{title}</title><link rel="stylesheet" href="assets/theme.css"></head><body><header><h1>{title}</h1><nav><a href="index.html">Home / الرئيسية</a></nav></header><main><section><p>{notice}</p>{rendered}</section></main></body></html>'''
         (OUT / (name + '.html')).write_text(page, encoding='utf-8')
+    for path in OUT.rglob('*.html'):
+        path.write_text(apply_metadata(path.read_text(encoding='utf-8'), path.relative_to(OUT)), encoding='utf-8')
     validate()
     print('GitHub Pages output:', OUT)
     print('Reference PDFs and assignment photographs are excluded from publication.')

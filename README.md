@@ -53,6 +53,12 @@ Downloaded `sources/` folders and personal `assignment/` photographs stay on you
 
 The reports are concise educational treatments, not official legal translations. Legal examples use the dated editions identified in the materials. Check relevant subsequent amendments and your instructor’s requirements before submission.
 
+## Social link descriptions
+
+Arabic titles and descriptions for WhatsApp, Telegram, and other link previews are configured in `sharing.json`. Every page includes static description, Open Graph, and Twitter Card tags; course and report links use their own Arabic titles and descriptions, including links to English pages.
+
+GitHub Actions supplies the deployed base URL automatically, including a project repository subpath. For another host, set `public_url` in `sharing.json`, or build with `SITE_URL=https://your-domain.example/project python scripts/build_pages.py`. This adds absolute canonical and `og:url` URLs. Without a known public URL, local previews retain the descriptions and omit those URL tags rather than invent an address. Share the deployed public link; local file links cannot be fetched by messaging services. Existing preview caches may retain earlier descriptions.
+
 ## بالعربية
 
 مساحة دراسة بخمس مواد، لكل منها نسخة عربية وأخرى إنجليزية. لتفعيل النشر: أنشئ مستودعا فارغا على GitHub، اربطه بالأوامر أعلاه، ثم اختر **GitHub Actions** من إعدادات **Pages**. تنشر الخطة تلقائيا عند الدفع إلى الفرع `main`.
